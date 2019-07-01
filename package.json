@@ -1,0 +1,20 @@
+{
+  "name": "helloworldci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Shamiul Hoque <shoq9876@gmail.com> (shamiulhoque.info)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "install": "^0.12.2",
+    "mocha": "^6.1.4",
+    "npm": "^6.9.0",
+    "supertest": "^4.0.2"
+  }
+}
